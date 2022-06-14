@@ -52,7 +52,7 @@ shopt [-pqsu] [-o long-option] opt source f i lename
 suspend [-f]
 test [expr]
 time [-p] PIPELINE
-t imes
+times
 trap [arg] [signal. spec ...] or tr true
 type [-afptP] name [name ...]
 typeset [-afFirtx] [-p] name [=va lu
@@ -63,5 +63,5 @@ unset
 [-f] [-v] [name ...
 until COMMANDS; do COMMANDS; done var iables - Some var iable names an
 lait [n。
-whi le COMMANDS; do COMMANDS; done
+while COMMANDS; do COMMANDS; done
 { COMMANDS ; }
