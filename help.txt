@@ -1,0 +1,67 @@
+GNU bash, version 2 .05b .0(1 )- -release (powerpc- -apple- _darwin7.0)
+These shell commands are defined internally. Type help to see this list.
+Type help name' to find out more about the function name '
+Use info bash' to find out more about the shell in general.
+Use man -k' or info' to find out. more about commands not in this list.
+A star (*) next to a name means that the command is disab led.
+%[DIGITS | WORD] [&]
+(( expression ))
+filename
+[ qrg...
+[[ expression ] ]
+alias [-p] [name [=value]
+bg [job_ spec]
+bind [- lpvsPVS] [-m keymap] [-f fi break [n]
+builtin [shell-builtin [arg ...1] case WORD in [PATTERN [| PATTERN].
+cd [-LI-P] [dir]
+command [-pVv] command [arg
+compgen [-abcdefgjksuv] [-0 option complete [-abedefgjksuv] [-pr] [-o
+continue [n
+dec lare [-afFirtx] [-p] name [=valu
+dirs [-clpv] [+N] [-N]
+disown [-h] [-ar] [jobspec ...]
+echo [-neE] [arg ...]
+enable [-pnds] [-a] [-f filename]
+eval [arg ...]
+exec [-cl] [-a name] file [redirec 
+exit [n]
+export [-nf ] [name [=value] ...] or
+false
+fc [-e ename] [-nlr] [first] [last
+fg [job_ spec]
+for NAME [in WORDS ... ;] do COMMA
+for (( exp1; exp2; exp3 )); do COM function NAME { COMMANDS ; } or NA
+getopts optstring name [arg]
+hash [-lr] [-p pathname] [-dt] [na
+help [-s] [pattern
+history [-c] [-d offset] [n] or hi
+if COMMANDS; then COMMANDS; [ elif jobs [-lnprs] [jobspec ...] or job
+ill [-s sigspec | -n signum | -si let arg [arg ...]
+local name [=value] ...
+logout
+popd [+N | -N] [-n]
+pr intf format [arguments]
+pushd [dir| +N | -N] [-n]
+pwd [-PL]
+read
+[-ers] [-u fd] [-t timeout] [ readonly [-anf ] [name [=value] ...]
+return [n]
+select NAME [in WORDS ... ;] do C0
+set [--abefhkmnptuvxBCHP] [-0 opti shift [n
+shopt [-pqsu] [-o long-option] opt source f i lename
+suspend [-f]
+test [expr]
+time [-p] PIPELINE
+t imes
+trap [arg] [signal. spec ...] or tr true
+type [-afptP] name [name ...]
+typeset [-afFirtx] [-p] name [=va lu
+ul imit [- SHacdf lmnpstuv] [Limit]
+umask [-P] [-S] [mode"
+unalias [- -a] [name ...]
+unset
+[-f] [-v] [name ...
+until COMMANDS; do COMMANDS; done var iables - Some var iable names an
+lait [n。
+whi le COMMANDS; do COMMANDS; done
+{ COMMANDS ; }
